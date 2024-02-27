@@ -10,8 +10,7 @@ public class Greatest{
         System.out.println("Enter a number: ");
         a = scanner.nextInt();
         System.out.println("Enter a number: ");
-        b= scanner.nextInt();
-        System.out.println("Enter a number: ");
+       
         b= scanner.nextInt();
         System.out.println("Enter a number: ");
         c= scanner.nextInt();
