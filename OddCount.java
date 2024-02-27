@@ -5,13 +5,14 @@ public class OddCount{
         
         
         Scanner scanner = new Scanner(System.in);
-       
+       int n;
         System.out.println("Enter a number: ");
         n = scanner.nextInt();
          int a[]=new int[n];
         for (int i=0;i<=a.length-1;i++){
-            a[i]=sc.nextInt();
+            a[i]=scanner.nextInt();
         }
         for (int i=0;i<=a.length-1;i++){
-            System.out.printLn(a[i]);
+            System.out.println(a[i]);
         }
+}}
