@@ -16,9 +16,9 @@ public class Greatest{
         System.out.println("Enter a number: ");
         c= scanner.nextInt();
         if(a>=b && a>=c)
-          System.out.println("The largest number is a:"+a)
+          System.out.println("The largest number is a:"+a);
         else if(b>=a && b>=c)
-            System.out.println("The largest number is b:"+b)
+            System.out.println("The largest number is b:"+b);
         else
-            System.out.println("The largest number is c:"+c)
+            System.out.println("The largest number is c:"+c);
           }}
